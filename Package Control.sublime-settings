@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Entheogen Color Scheme",
+		"Git",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}

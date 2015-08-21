@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Entheogen Color Scheme/entheogen.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": true,
+    "tab_size": 2,
+    "open_files_in_new_window": false,
+    "translate_tabs_to_spaces": true
+}
